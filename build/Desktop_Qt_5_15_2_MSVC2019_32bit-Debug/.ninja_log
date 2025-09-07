@@ -1,0 +1,12 @@
+# ninja log v5
+2	1204	7789550470297425	untitled_autogen/timestamp	61226bbc99f533c4
+2	1204	7789550470297425	untitled_autogen/mocs_compilation.cpp	61226bbc99f533c4
+2	1204	7789550470297425	E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/untitled_autogen/timestamp	61226bbc99f533c4
+2	1204	7789550470297425	E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/untitled_autogen/mocs_compilation.cpp	61226bbc99f533c4
+1204	1610	7789550424558815	E:/project/ZYSoftwareQT/untitled/untitled_en_US.ts	916186042319fb23
+1204	1610	7789550424558815	CMakeFiles/untitled_en_US.ts_lst_file	916186042319fb23
+1204	1610	7789550424558815	E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/untitled_en_US.ts_lst_file	916186042319fb23
+1610	3131	7789550491674285	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	461b4df10756ae92
+2000	3136	7789550491710532	CMakeFiles/untitled.dir/mainwindow.cpp.obj	8d0f8277fcfa5dc9
+1809	3137	7789550491710532	CMakeFiles/untitled.dir/main.cpp.obj	c0719c4e310a3845
+3137	6146	7789550521590628	untitled.exe	5ce8d4b5c77da59d

@@ -1,0 +1,8 @@
+E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/untitled.dir
+E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/edit_cache.dir
+E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/list_install_components.dir
+E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/install.dir
+E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/install/local.dir
+E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
+E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_5_15_2_MSVC2019_32bit-Debug/CMakeFiles/untitled_autogen.dir
