@@ -1,0 +1,19 @@
+# ninja log v5
+12	351	0	E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_6_9_2_MSVC2022_64bit-Debug/CMakeFiles/cmake.verify_globs	9c5bcf9486e5b726
+372	1942	7790015592613390	untitled_autogen/timestamp	24091609969ca881
+1951	4041	7790015616399141	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	ee2eb307aa028925
+372	1942	7790015592613390	untitled_autogen/mocs_compilation.cpp	24091609969ca881
+372	1942	7790015592613390	E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_6_9_2_MSVC2022_64bit-Debug/untitled_autogen/timestamp	24091609969ca881
+372	1942	7790015592613390	E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_6_9_2_MSVC2022_64bit-Debug/untitled_autogen/mocs_compilation.cpp	24091609969ca881
+2167	4044	7790015616399141	CMakeFiles/untitled.dir/main.cpp.obj	cb3359935dfb9af6
+2382	4046	7790015616465389	CMakeFiles/untitled.dir/mainwindow.cpp.obj	598f930433002ebf
+4046	7010	7790015645766657	untitled.exe	282b068838fdd67d
+338	2440	7790047958531231	build.ninja	fcde734d235a3fcc
+352	9190	7790047958531231	build.ninja	fcde734d235a3fcc
+21	342	0	E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_6_9_2_MSVC2022_64bit-Debug/CMakeFiles/cmake.verify_globs	9c5bcf9486e5b726
+344	1128	7771514020000000	untitled_autogen/timestamp	8415ea03359da95
+344	1128	7771514020000000	untitled_autogen/mocs_compilation.cpp	8415ea03359da95
+344	1128	7771514020000000	E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_6_9_2_MSVC2022_64bit-Debug/untitled_autogen/timestamp	8415ea03359da95
+344	1128	7771514020000000	E:/project/ZYSoftwareQT/untitled/build/Desktop_Qt_6_9_2_MSVC2022_64bit-Debug/untitled_autogen/mocs_compilation.cpp	8415ea03359da95
+1130	2683	7790047988999618	CMakeFiles/untitled.dir/mainwindow.cpp.obj	598f930433002ebf
+2683	4146	7790048001215504	untitled.exe	55e6653ab75e51c4
